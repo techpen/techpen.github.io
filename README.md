@@ -1,4 +1,8 @@
-# Jorge的前端主页  传送门→ [techpen.github.io](https://techpen.github.io)
+# Jorge的主页 
++ 传送门→ [techpen.github.io](https://techpen.github.io)
+
+# 我的作品合集 
++ 传送门→ [https://techpen.github.io/case](https://techpen.github.io/case)
 
 # PC端
 + 车风
