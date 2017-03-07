@@ -1,4 +1,4 @@
-# Jorge的主页 
+# Jorge的Web前端开发个人主页 
 + 传送门→ [techpen.github.io](https://techpen.github.io)
 
 # 我的作品合集 
